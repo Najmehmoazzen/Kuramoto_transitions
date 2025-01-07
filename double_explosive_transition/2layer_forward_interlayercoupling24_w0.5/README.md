@@ -16,3 +16,14 @@
 | Intralayer frustration  | 0 |
 
 
+To run this code, we need to make these directories:
+./Save/Average_Syncrony(couplig_SyncL1_SyncL2_Extime)
+./Save/Last_Phase
+./Save/Phases(time)VS(Node)
+./Save/Syncrony(time_SyncL1_SyncL2)
+
+
+
+
+
+
