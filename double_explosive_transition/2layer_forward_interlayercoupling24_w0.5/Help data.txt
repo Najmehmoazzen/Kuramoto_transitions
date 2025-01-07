@@ -1,0 +1,7 @@
+﻿data[1]=        Number of node			Example=	1000
+data[2]=        Initional time			Example=	0
+data[3]=        Time step				Example=	0.01
+data[4]=        Final time				Example=	10
+data[5]=        first coupling			Example=	0
+data[6]=        coupling step			Example=	0.1
+data[7]=        end coupling			Example=	3
