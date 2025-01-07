@@ -1,7 +1,18 @@
-Simulation Parameters
-Parameter	Value
-# of nodes	100
-network	2 fully connected layer
+## Simulation Parameters
+| Parameter     | Value      |
+|--------------|--------------|
+| # of nodes  | 100  | 
+| network  | 	2 fully connected layer  |
+| Content 3.1  | Content 3.2  |
+| Content 1.1  | Content 1.2  | 
+| Content 2.1  | Content 2.2  |
+| Content 3.1  | Content 3.2  |
+| Content 1.1  | Content 1.2  | 
+| Content 2.1  | Content 2.2  |
+| Content 3.1  | Content 3.2  |
+
+
+
 Initial time	0
 Final time	400
 Delta time	0.01
