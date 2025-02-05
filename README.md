@@ -5,11 +5,11 @@ This repository contains implementations of both first-order and second-order ph
 
 ## Kuramoto Model
 The Kuramoto model describes a system of coupled oscillators evolving according to the equation:
-
+$$
 \[
 \frac{d\theta_i}{dt} = \omega_i +K \sum_{j}  A_{ij} \sin(\theta_j - \theta_i)
 \]
-
+$$
 where:
 - \(\theta_i\) is the phase of the \(i\)th oscillator.
 - \(\omega_i\) is its natural frequency.
